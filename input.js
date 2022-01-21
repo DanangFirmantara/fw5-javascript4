@@ -12,6 +12,7 @@ rl.question('What is your name ? ', function (name) {
   rl.close()    
 });
 
+//sia ka
 rl.on('close', function() {
     console.log(`Good bye !!`)
     process.exit(0)
