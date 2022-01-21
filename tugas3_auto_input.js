@@ -1,4 +1,4 @@
-const data = 120321021
+const data = 5956560159466056
 
 function divideAndSort(data){
     //convert to string
@@ -60,4 +60,4 @@ function sort(found){
     return found
 }
 
-divideAndSort(123410320123)
+divideAndSort(data)
