@@ -19,3 +19,4 @@ rl.question("Input a word ", function(word) {
     }
     rl.close()
 })
+
