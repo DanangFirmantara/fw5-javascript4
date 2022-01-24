@@ -30,7 +30,7 @@
 
 
 //input has initialization
-function reseredWord(data) {
+function reservedWord(data) {
     const input = data
     temp = input.length - 1
     let x = 0
@@ -51,4 +51,4 @@ function reseredWord(data) {
     console.log(res)
 }
 
-reseredWord("Aku Bukan Boneka")
+reservedWord("Aku Bukan Boneka")
